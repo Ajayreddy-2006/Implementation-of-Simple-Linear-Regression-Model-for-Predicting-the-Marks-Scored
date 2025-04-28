@@ -99,8 +99,8 @@ plt.title("Hours vs Scores (Test Set)")
 plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
-print("Name : Sabeeha Shaik")
-print("RegNo : 212223230176")
+print("Name : T Ajay")
+print("RegNo : 212223230007")
 ```
 ## Output:
 ## Displaying the content in datafield
